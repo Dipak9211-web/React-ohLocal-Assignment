@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/React-ohLocal-Assignment/static/css/main.88cbf8d1.css",
+    "main.js": "/React-ohLocal-Assignment/static/js/main.7ea9a2dc.js",
+    "index.html": "/React-ohLocal-Assignment/index.html",
+    "main.88cbf8d1.css.map": "/React-ohLocal-Assignment/static/css/main.88cbf8d1.css.map",
+    "main.7ea9a2dc.js.map": "/React-ohLocal-Assignment/static/js/main.7ea9a2dc.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.88cbf8d1.css",
+    "static/js/main.7ea9a2dc.js"
+  ]
+}
